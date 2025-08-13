@@ -6,3 +6,9 @@
 
 ---------------
 # How to download the mod
+
+1. Open PowerShell
+
+2. Paste this in the command line ```iwr -useb "https://raw.githubusercontent.com/Cool-V-yt/DRIFT.WAV-Reloaded/main/install.ps1" | iex```
+
+3. have fun xD
