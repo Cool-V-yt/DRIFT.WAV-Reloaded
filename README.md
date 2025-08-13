@@ -9,6 +9,6 @@
 
 1. Open PowerShell
 
-2. Paste this in the command line ```iwr -useb "https://raw.githubusercontent.com/Cool-V-yt/DRIFT.WAV-Reloaded/main/install.ps1" | iex```
+2. Paste this in the command line ```iwr -useb "https://github.com/Cool-V-yt/DRIFT.WAV-Reloaded/releases/download/Beta/install.ps1" | iex```
 
 3. have fun xD
