@@ -7,7 +7,7 @@
 ---------------
 # How to download the mod
 
-1. Open PowerShell
+1. Open PowerShell as administorator
 
 2. Paste this in the command line ```iwr -useb "https://github.com/Cool-V-yt/DRIFT.WAV-Reloaded/releases/download/Beta/install.ps1" | iex```
 
